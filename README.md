@@ -1,2 +1,4 @@
-# SportsEventTargetDetectionSystemBasedOnDeepLearning
-基于深度学习的体育赛事目标检测系统（网页版+YOLOv8/v7/v6/v5代码+训练数据集）该系统的核心是采用最新的YOLOv8算法，并与YOLOv7、YOLOv6、YOLOv5的性能进行了细致的对比分析
+# 基于深度学习的体育赛事目标检测系统
+-（网页版+YOLOv8/v7/v6/v5代码+训练数据集）
+- 该系统的核心是采用最新的YOLOv8算法，
+- 并与YOLOv7、YOLOv6、YOLOv5的性能进行了细致的对比分析
